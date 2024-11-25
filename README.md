@@ -9,7 +9,7 @@ The platform is designed to empower local businesses by providing a **seamless o
 
 The **Local Store E-commerce Platform** aims to enhance the digital presence of local businesses.  
 By creating an online platform, the project:  
-- **Increases product accessibility** by 40%.  
+- **Increases product accessibility** by 25%.  
 - **Reduces bounce rates** by 20%.  
 - **Ensures secure transactions** for users.  
 
@@ -21,7 +21,7 @@ By creating an online platform, the project:
   A dynamic and user-friendly interface for improved customer engagement.  
 
 - **Optimized Performance**:  
-  Reduced API response times by **30%** with efficient backend engineering.  
+  Reduced API response times by **20%** with efficient backend engineering.  
 
 - **Enhanced Security**:  
   Integrated robust authentication and payment systems to ensure data integrity and secure transactions.  
